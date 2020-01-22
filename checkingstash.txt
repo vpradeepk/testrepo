@@ -1,1 +1,2 @@
 stash testing file
+Added a line to test rebasing and stash as well
