@@ -1,2 +1,3 @@
 stash testing file
 Added a line from branch to test rebase
+Added a line to test rebasing and stash as well
