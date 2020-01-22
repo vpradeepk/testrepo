@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 inew fileis
 
 
 Testing rebase from master branch.
+=======
+inew files
+
+
+
+testing rebasing from local brach
+>>>>>>> refs/remotes/origin/master
